@@ -87,15 +87,3 @@ daily-notes-app/
   "createdAt": "2024-05-01T10:30:34.000Z"
 }
 ```
-
-## 🔄 Próximos passos (opcional)
-
-- [ ] Adicionar filtro por data
-- [ ] Sincronizar com banco de dados (MongoDB/PostgreSQL)
-- [ ] Autenticação de usuários
-- [ ] Exportar como PDF para apresentação
-- [ ] Notificações em tempo real
-
-## 📄 Licença
-
-MIT
